@@ -1,0 +1,2 @@
+# KodeLife_Study_Rodrigues_RotationFormula
+ロドリゲスの回転公式を勉強
